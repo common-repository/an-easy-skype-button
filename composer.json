@@ -1,0 +1,11 @@
+{
+    "require": {
+        "page-carbajal/wpexpress": "^0.3.2"
+    },
+
+    "autoload":{
+        "psr-4":{
+            "AnEasySkypeButton\\": "src/"
+        }
+    }
+}
